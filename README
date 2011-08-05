@@ -1,0 +1,30 @@
+REQUIREMENTS
+
+Android Debug Bridge (adb) must be installed and available on your PATH.
+
+OCaml
+
+
+INSTALLATION
+
+make
+sudo make install
+
+
+USAGE
+
+Start the client by typing "kb" in bash.
+
+Have your phone hooked up via usb.
+
+Type what you want.  
+
+Enter flushes the buffer.  
+
+
+ESCAPE KEYS
+
+\n is newline
+\b is backspace
+\e is the back button
+\\ is \
